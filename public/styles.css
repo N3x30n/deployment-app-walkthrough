@@ -7,8 +7,8 @@ body {
     flex-direction: center;
     justify-content: center;
     align-items: center;
-    /* background-color: #efaaff; */
-    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    background-color: #efaaff;
+    /* background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); */
 }
 
 h1 {
